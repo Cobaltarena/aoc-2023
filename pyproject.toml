@@ -3,8 +3,6 @@ name = "aoc-2023"
 version = "0.1.0"
 description = ""
 authors = ["Thomas CRAMBERT <thomas.crambert@epita.fr>"]
-readme = "README.md"
-packages = [{include = "aoc_2023"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
